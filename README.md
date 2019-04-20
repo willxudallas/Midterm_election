@@ -3,7 +3,7 @@
 ## Instructions:
 The detail for this project is [here](https://www.utdallas.edu/~ammann/stat6341/node13.html).
 
-TLDR: Under different settings, simulate the confidence intervals for the difference in cadidate preference using Bonferroni and Fitzpatrickmethod.
+TLDR: Under different settings, simulate the confidence intervals for the difference in candidate preference using Bonferroni and Fitzpatrickmethod.
 
 ## Results:
 
